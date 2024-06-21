@@ -1,5 +1,11 @@
 # Hello there!
 
+I'm Eduardo Espadeiro and I'm currently studying Computer Science and Engineering at Instituto Superior Técnico.
+
+- My main interests are programming languages and compilers
+- I enjoy both functional and low level programming (because of this I really like Rust :D)
+- Currently working on my master's thesis developing a Metaobject Protocol for the Julia programming language
+
 <!--
 **EdSwordsmith/EdSwordsmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
